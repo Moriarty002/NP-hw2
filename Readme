@@ -1,0 +1,8 @@
+Server:
+	1.use "./server [port] [IP]" to start server
+Client:
+	1.use "./client [port] [IP]" to start
+	2.quit to quit
+	3.list to see all 
+	4.to to send secret message
+
